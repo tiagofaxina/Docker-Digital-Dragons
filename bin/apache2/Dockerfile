@@ -1,3 +1,6 @@
+#Thanks Edson Junior Macoto
+#Thanks Gustavo Santos 
+#
 #
 # Use this dockerfile to run the application.
 #
