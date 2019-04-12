@@ -3,7 +3,7 @@ version: "3"
 services:
   webserver:
     build: 
-      context: ./bin/webserver
+      context: ./bin/apache2
     container_name: 'lab_webserver'
     restart: 'always'
     ports:
